@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map Test</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyB9yx-JeChd3P-JqFu-gCt2Xtd91rmU_Eg
+    </string>
+</resources>
